@@ -208,13 +208,4 @@ __marimo__/
 
 # Python Env
 
-qa_env/
-qa_env.
-
-
-Simple_Q&A/qa_env/
-Simple_Q&A/qa_env.
-
-
-GoogleGemini/ggle_env/
-GoogleGemini/ggle_env.
+ggle_env/
